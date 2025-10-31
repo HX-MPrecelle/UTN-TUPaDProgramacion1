@@ -1,0 +1,4 @@
+Lapicera,120.5,30
+Cuaderno,450.0,15
+Regla,89.99,25
+
